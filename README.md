@@ -10,6 +10,7 @@ Welcome to my GitHub! I'm a passionate Frontend Engineer dedicated to creating d
 - 💻 I specialize in building **visually appealing** and **performance-optimized** websites and web applications.
 - 🎨 My toolkit includes **HTML, CSS, JavaScript, TypeScript, React, Next.js, Zustand, Redux**, and more.
 - 🌍 I enjoy contributing to projects that make the web better for everyone.
+- Reach out to me through <a href="https://www.linkedin.com/in/jesulona-odelade/" target="_blank">linkedin </a>  or  <a href="https://j-portfolio-lyart.vercel.app/" target="_blank"> my portfolio</a>
 - 🎮 When I'm not coding, you can find me enjoying a good music or keeping up with the latest trends in tech.
 - 📚 I'm always **learning** and exploring new technologies to stay at the forefront of web development.
 

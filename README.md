@@ -13,9 +13,13 @@ Welcome to my GitHub! I'm a passionate Frontend Engineer dedicated to creating d
 - Reach out to me through <a href="https://www.linkedin.com/in/jesulona-odelade/" target="_blank">linkedin </a>  or  <a href="https://j-portfolio-lyart.vercel.app/" target="_blank"> my portfolio</a>
 - 🎮 When I'm not coding, you can find me enjoying a good music or keeping up with the latest trends in tech.
 - 📚 I'm always **learning** and exploring new technologies to stay at the forefront of web development.
+https://buymeacoffee.com/joshjay05
+---
+### ☕  Show your Support:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)]([https://www.buymeacoffee.com/yourname](https://buymeacoffee.com/joshjay05))
 
 ---
-
 ### 🌟 What I Love:
 - **Building immersive user experiences**.
 - **Collaborating** on  projects that impact the community.

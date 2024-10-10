@@ -24,36 +24,61 @@ Welcome to my GitHub! I'm a passionate Frontend Engineer dedicated to creating d
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joshjay05&show_icons=true&theme=radical" alt="Jesulona's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshjay05&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center" style="padding: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshjay05&show_icons=true&theme=radical" alt="Jesulona's GitHub Stats" style="padding:10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshjay05&layout=compact&theme=radical" alt="Top Languages" style="padding:10px;" />
+</div>
+
 
 ---
-
+<hr>
 ### 🚀 Skills & Technologies:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Zustand-EB5A46?style=for-the-badge&logoColor=white" alt="Zustand"/>
-  <img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="Tanstack Query"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    </td>
+       <td>
+     <img src="https://img.shields.io/badge/Tanstack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="Tanstack Query" width="100px"/>
+   </td> 
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    </td>
+    
 
----
+   
+   <td>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" width="100px"/>
+     
+   </td>
+   <td>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="100px"/>
+     
+   </td>
+    <td>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" width="100px"/>
+     
+   </td>
+  </tr>
+</table>
+
+<hr>
 
 ### 📫 Let's Connect:
+<p align="left"> <a href="https://www.linkedin.com/in/jesulona-odelade/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://j-portfolio-lyart.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="https://github.com/Joshjay05" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jesulona-odelade/)
-- 🌐 [Portfolio](https://j-portfolio-lyart.vercel.app/)
-- ✨ Follow me on GitHub to stay updated on my latest projects and contributions!
-
----

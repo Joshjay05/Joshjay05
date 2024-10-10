@@ -1,6 +1,6 @@
 # Hi, I'm Jesulona Odelade 👋
 
-### 🚀 Frontend Engineer | Open Source Contributor | Web Enthusiast
+### 🚀 Frontend Engineer | Web Enthusiast
 
 Welcome to my GitHub! I'm a passionate Frontend Engineer dedicated to creating dynamic, responsive, and user-friendly web applications. I love working on projects that push the boundaries of user experience and bring innovative ideas to life.
 

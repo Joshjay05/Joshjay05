@@ -9,29 +9,29 @@ Welcome to my GitHub! I'm a passionate Frontend Engineer dedicated to creating d
 ### 👨🏽‍💻 About Me:
 - 💻 I specialize in building **visually appealing** and **performance-optimized** websites and web applications.
 - 🎨 My toolkit includes **HTML, CSS, JavaScript, TypeScript, React, Next.js, Zustand, Redux**, and more.
-- 🌍 I'm an advocate for **open-source** and enjoy contributing to projects that make the web better for everyone.
-- 🎮 When I'm not coding, you can find me enjoying a good video game or keeping up with the latest trends in tech.
+- 🌍 I enjoy contributing to projects that make the web better for everyone.
+- 🎮 When I'm not coding, you can find me enjoying a good music or keeping up with the latest trends in tech.
 - 📚 I'm always **learning** and exploring new technologies to stay at the forefront of web development.
 
 ---
 
 ### 🌟 What I Love:
 - **Building immersive user experiences**.
-- **Collaborating** on open-source projects that impact the community.
+- **Collaborating** on  projects that impact the community.
 - **Problem-solving** and optimizing applications for better performance.
 
 ---
 
 ### 📊 GitHub Stats:
 
-<div align="center" style="padding: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joshjay05&show_icons=true&theme=radical" alt="Jesulona's GitHub Stats" style="padding:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshjay05&layout=compact&theme=radical" alt="Top Languages" style="padding:10px;" />
+<div style="display: grid; grid-template-columns: repeat(2, auto); gap: 60px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshjay05&show_icons=true&theme=radical" alt="GitHub Stats"  style="padding: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshjay05&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 
 ---
-<hr>
+
 ### 🚀 Skills & Technologies:
 
 <table>
@@ -77,7 +77,8 @@ Welcome to my GitHub! I'm a passionate Frontend Engineer dedicated to creating d
   </tr>
 </table>
 
-<hr>
+
+---
 
 ### 📫 Let's Connect:
 <p align="left"> <a href="https://www.linkedin.com/in/jesulona-odelade/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://j-portfolio-lyart.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="https://github.com/Joshjay05" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
